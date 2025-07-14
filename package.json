@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@babel/standalone": "^7.26.4",
+    "@babel/standalone": "^7.28.1",
+    "@monaco-editor/react": "^4.7.0",
     "@uiw/react-codemirror": "^4.23.7",
     "cra-template": "1.2.0",
     "react": "^19.0.0",
